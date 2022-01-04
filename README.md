@@ -1,7 +1,7 @@
 
 # Build an Adversarial Game Playing Agent
 
-![Example game of isolation on a square board](viz.gif)
+![Example game of isolation on a square board](demo.gif)
 
 ## Synopsis
 
